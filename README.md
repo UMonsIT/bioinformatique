@@ -1,6 +1,4 @@
-# bioinformatique
-
-Cours de bioinformatique et algorithmique
+# Algorithme et bio-informatique
 
 ## Références:
 
